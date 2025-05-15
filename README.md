@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] My First Repo 🚀
 
 # 👋 Hi, I'm Nandisa
 
