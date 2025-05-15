@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nandisa
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | 🚀 Ready to Learn & Improve.
 
 ---
 
