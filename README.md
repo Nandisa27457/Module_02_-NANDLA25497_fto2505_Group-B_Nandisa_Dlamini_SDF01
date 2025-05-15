@@ -69,7 +69,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nandisa27457)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/nandisa-dlamini-474220275)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [nandidlamini64@gmail.com](mailto:nandidlamini64@gmail.com)
 
 ---
 
